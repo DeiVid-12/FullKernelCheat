@@ -19,7 +19,7 @@
 # Installing the driver
 - Put computer on test mode: ```bcdedit /set testsigning on```
 - Restart your computer
-- Create a service for driver: ```sc create smk type=kernel binpath="path to driver"```
-- Start the service: ```sc start smk```
+- Create a service for driver: ```sc create fkc type=kernel binpath="path to driver"```
+- Start the service: ```sc start fkc```
 
 ### Note: It's not a safe mode to load a cheat driver, look for methods to manual map your driver with a vulnerable driver
