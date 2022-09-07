@@ -2,6 +2,7 @@
 - FullKernelCheat is a educational project that demonstrate how a driver can use to hack games, without any communication method
 - The purpose of this project is educational, if you are learning the basics of windows kernel development this project is very useful
 - Only contains basics functions like get module base, read and write virtual memory
+- This project is maded in my free time and i make this in less than 1 hour so this probably has problems.
 
 # Detection vectors
 - This project eliminates some detection vectors because of not using any communication with usermode
